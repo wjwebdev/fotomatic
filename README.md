@@ -1,2 +1,2 @@
-# fotomatic
+# Fotomatic Landing Page
 Codecademy project 
