@@ -1,2 +1,2 @@
-# Fotomatic Landing Page
+# Fotomatic Responsive Landing Page
 Codecademy project 
