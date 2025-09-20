@@ -85,7 +85,7 @@ header .mobile {
 }
 
 .banner {
-  background-image: url("../../images/banner-landingpage.jpg"); 
+  background-image: url("../images/banner-landingpage.jpg"); 
   background-repeat: no-repeat;
   background-size: cover; 
 }
