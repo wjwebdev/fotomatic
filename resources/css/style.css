@@ -161,6 +161,7 @@ header .mobile {
 
   .banner {
     background-position-x: right;
+    overflow: hidden; 
 }
 
 }
